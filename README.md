@@ -36,6 +36,7 @@ A simple Web3 application built on Stellar Soroban for managing student (mahasis
 │       └── Cargo.toml
 ├── Cargo.toml
 └── README.md
+└── screenshot
 ```
 
 ---
