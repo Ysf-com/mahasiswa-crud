@@ -155,7 +155,10 @@ Admin is set during:
 init(admin)
 ```
 
-
+SMART CONTRACT ID
+```bash
+CDIBL5NIANNIJHVFD65KDTPSUOKMQV2K6FSXTZ3JIKQWSYC4JG4OISSR;;
+```
 
 ## 🎯 Goal
 
