@@ -154,25 +154,7 @@ Admin is set during:
 init(admin)
 ```
 
----
 
-## 🌐 Future Improvements
-
-- Web frontend (React + Freighter)
-- Role-based access control
-- GPA & course tracking
-- Dashboard UI
-- Pagination for large datasets
-
----
-
-## 🧩 Notes
-
-- Runs on Stellar Testnet (no real money)
-- CLI wallet is used for deployment & admin actions
-- Freighter is optional for frontend integration
-
----
 
 ## 🎯 Goal
 
